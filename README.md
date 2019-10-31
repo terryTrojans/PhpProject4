@@ -23,7 +23,7 @@ There is currently no database installed. The owner does not have MS Access as p
 I have decided to make use of MySQL for Azure database that will be hostes in the cloud.
 
 ## The Users of the System
-*    Manager     :   Username: hcp@althealth
+     Manager     :   Username: hcp@althealth
                  :   password: hcp1alt
                  
      HCP         :   admin
@@ -34,7 +34,7 @@ I have decided to make use of MySQL for Azure database that will be hostes in th
                   
     Client       :   Username: user
                  :   password: user
-*                  
+                  
 ## Product Pespective
 There is several omline appointment scheduling tools in the marketplace, some of which are feature-loaded, easy to setup and cheap. For doctors, online appointment scheduling brings a lot of value added services and benefits, like engaging the patient, making the patient feel appreciated, and being able to store patients data securely for future reference.
 
