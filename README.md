@@ -42,7 +42,7 @@ There is several omline appointment scheduling tools in the marketplace, some of
 Online appointment system with the key features listed below:
 
 ### For patients:
-- Register as an patient account\\
+- Register as an patient account
 - Booking an appointment
 - Cancelling an appointment
 - View booking status
