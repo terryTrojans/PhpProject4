@@ -42,42 +42,42 @@ There is several omline appointment scheduling tools in the marketplace, some of
 Online appointment system with the key features listed below:
 
 ### For patients:
-- Register as an patient account\
-- Booking an appointment\
-- Cancelling an appointment\
-- View booking status\
-- See doctor availability\
+- Register as an patient account
+- Booking an appointment
+- Cancelling an appointment
+- View booking status
+- See doctor availability
 
 ## For Manager:
-- Book appointment\
-- Update status of appointments\
-- View appointment list\
-- Cancel bookings\
+- Book appointment
+- Update status of appointments
+- View appointment list
+- Cancel bookings
 
 ## For HCP:
 - Make appointments
-- Create invoices\
-- Add new products  to the supplent stock\
-- MIS reports\
+- Create invoices
+- Add new products to the supplent stock
+- MIS reports
 
 ## For Genreal Administrative person (GA)
-- Make appointments\
-- Create invoices\
-- Add products to the supplement stocks\
+- Make appointments
+- Create invoices
+- Add products to the supplement stocks
 
 ## Technologies used:
-- HTML\
-- CSS3\
-- PHP\
-- JavaScript\
-- AJAX\
-- SQL\
-- jQuery\
+- HTML
+- CSS3
+- PHP
+- JavaScript
+- AJAX
+- SQL
+- jQuery
 
 ## Software Requirement:
-- PHP server like (XAMPP, WAMP) etc. \
-- MySQL, phpMyAdmin for database \
-- Web Browser supporting HTML: Google Chrome(recommended), Firefox, Edge etc \
+- PHP server like (XAMPP, WAMP) etc.
+- MySQL, phpMyAdmin for database 
+- Web Browser supporting HTML: Google Chrome(recommended), Firefox, Edge etc 
 
 ## Step-wise instructions:
 1. Open the PhpProject4.zip file in the zip folder.
