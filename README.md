@@ -23,8 +23,11 @@ There is currently no database installed. The owner does not have MS Access as p
 I have decided to make use of MySQL for Azure database that will be hostes in the cloud.
 
 #The Users of the System
-#(HCP) Manager:   Username: hcp@althealth
+# Manager     :   Username: hcp@althealth
                   password: hcp1alt
+                 
+#HCP          :   admin
+              :   admin
                   
 #GA           :   Username: admin
                   password: admin
@@ -32,4 +35,56 @@ I have decided to make use of MySQL for Azure database that will be hostes in th
 #Client       :   Username: user
                   password: user
                   
+#Product Pespective
+There is several omline appointment scheduling tools in the marketplace, some of which are feature-loaded, easy to setup and cheap. For doctors, online appointment scheduling brings a lot of value added services and benefits, like engaging the patient, making the patient feel appreciated, and being able to store patients data securely for future reference.
+
+#Product Functions
+Online appointment system with the key features listed below:
+
+#For patients:
+--Register as an patient account
+--Booking an appointment
+--Cancelling an appointment
+--View booking status
+--See doctor availability
+
+#For Manager:
+--Book appointment
+--Update status of appointments
+--View appointment list
+--Cancel bookings
+
+#For HCP:
+--Make appointments
+--Create invoices
+--Add new products  to the supplent stock
+--MIS reports
+
+#For Genreal Administrative person (GA)
+--Make appointments
+--Create invoices
+--Add products to the supplement stocks
+
+#Technologies used:
+--HTML\n
+--CSS3\n
+--PHP\n
+--JavaScript\n
+--AJAX\n
+--SQL\n
+--jQuery\n
+
+#Software Requirement:
+--PHP server like (XAMPP, WAMP) etc.\n
+--MySQL, phpMyAdmin for database \n
+--Web Browser supporting HTML: Google Chrome(recommended), Firefox, Edge etc \n
+
+#Step-wise instructions:
+1.--Open the PhpProject4.zip file in the zip folder.
+2.--Import it to wamp/xampp folder (Note: Username for phpMyAdmin is 'root'; password is 'ICT2613evaTeRry')
+3.--The opening file for the website is index.php file.
+4.--General Administrator and Manager login can be done through the same page. Login credentails are specified under Users of the System heading above.
+5.--Patient sign up opptions are also available at the index.php page.
+6.--Log out will directly redirect the user to the index.php page.
+
 
