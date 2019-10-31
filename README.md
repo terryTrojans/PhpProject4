@@ -26,13 +26,13 @@ I have decided to make use of MySQL for Azure database that will be hostes in th
 *    Manager     :   Username: hcp@althealth
                  :   password: hcp1alt
                  
--    HCP         :   admin
+     HCP         :   admin
                  :   admin
                   
--    GA          :   Username: admin
+     GA          :   Username: admin
                  :   password: admin
                   
-    Client      :   Username: user
+    Client       :   Username: user
                  :   password: user
 *                  
 ## Product Pespective
@@ -75,7 +75,7 @@ Online appointment system with the key features listed below:
 - jQuery\
 
 ## Software Requirement:
-- PHP server like (XAMPP, WAMP) etc.\
+- PHP server like (XAMPP, WAMP) etc. \
 - MySQL, phpMyAdmin for database \
 - Web Browser supporting HTML: Google Chrome(recommended), Firefox, Edge etc \
 
