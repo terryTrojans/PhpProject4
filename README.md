@@ -18,7 +18,7 @@ The purpose of this section is to provide the specifications for a new proposed 
 The current operating system is Windows 10
 
 ## Database
-There is currently no database installed. The owner does not have MS Access as part of the MS Office package. The proposed database has to be a relational database. The specific database is not precriptive; however it has to be open source and not require license fees. If it is a database that is operating system independent, so much the better, But a Windows based database would sufficent. Since the database has to be accessed via the Web browser and the *Mobile application,* the database has to be hosted in the cloud, but made available offline aswell.
+There is currently no database installed. The owner does not have MS Access as part of the MS Office package. The proposed database has to be a relational database. The specific database is not precriptive; however it has to be open source and not require license fees. If it is a database that is operating system independent, so much the better, But a Windows based database would sufficent. Since the database has to be accessed via the Web browser and the * Mobile application,* the database has to be hosted in the cloud, but made available offline aswell.
 
 I have decided to make use of MySQL for Azure database that will be hostes in the cloud.
 
