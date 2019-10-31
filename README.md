@@ -6,7 +6,7 @@ An Online Appointment Booking System for AltHealth with User as well as the Admi
 
 The purpose of this business is to provide alternative health care options to the people in the community. The owner is also the Health Care Practioner. It is an existing business and there are already a number of patients. The current system is developed in MS Excel and uses a hand filining system. The system works quite well, however the owner would like to expose the business and have an online presence as well. 
 The staff of this business consists of two people:
--1.  The Health Care Practisioner (HCP)
+-- 1.  The Health Care Practisioner (HCP)
 * 2.  General Administrative (GA) person that also acts as a secretary, handling the ordering and selling of supplements and assisting the owner in making appointments.
 
 ## The Proposed new System
